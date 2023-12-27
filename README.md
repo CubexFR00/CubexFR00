@@ -3,6 +3,7 @@
 - 🍕 I’m currently learning Italian
 - 💭 I speak French, English and Spanish
 - 🌧️ I'm staff for Darkness (dsc.gg/darknessteam)
+- 💎 I'm a Java and VB.NET developer, but I can also edit videos
 
 <!---
 CubexFR00/CubexFR00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
