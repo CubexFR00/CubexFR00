@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **CubexFR** ! I'm **French** 🥐
+- 👋 Hi, I’m **CubexFR**! I'm **French** 🥐
 - 👀 I’m interested in **development** and **security**
 - 🍕 I’m currently **learning Italian**
 - 💭 I speak **French**, **English** and **Spanish**
